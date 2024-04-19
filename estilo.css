@@ -174,3 +174,15 @@
     transform: scale(1.01);
     transition: 1s;
 }
+.barra-inferior{
+    background-color: powderblue;
+    text-align: left;
+    color: black;
+    padding: 20px 10px;
+}
+.card-inferior{
+    margin: 20px 0;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 25px;
+}
